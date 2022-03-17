@@ -18,3 +18,5 @@ the I publish the data base to tablueau online but I soon find out tableau onlin
 
 the original interactive tableau tables are nice and interactive but pdf is static so I published a few different pdf in differnt date choices. the following are pdfs the sizing is a bit off because of the conversion process but the original tableau looks perfectly fine it is just the conversion.
 [embed]http://www.africau.edu/images/default/sample.pdf[/embed]
+
+http://www.africau.edu/images/default/sample.pdf
